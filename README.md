@@ -1,11 +1,11 @@
 # Pruning_CNNs_Reproducibility_Challenge
 
-This repository contains the result of my Machine Learning graduate program's Reproducibility Challenge, covering papers submitted to ICLR (International Conference on Learning Representations) 2023.
+This repository contains the work done as I participated in my Machine Learning graduate program's Reproducibility Challenge, covering papers submitted to ICLR (International Conference on Learning Representations) 2023.
 
 This project consisted in reproducing the CNN filters' pruning method, proposed in the paper [Arshdeep Singh, Yunpeng Li, and Mark D Plumbley.
 An operator norm based passive filter pruning method for efficient cnns (2022).](https://openreview.net/forum?id=Tjp51oUrk3&fbclid=IwAR37UzkX0-Reov2MNL7HJPkWoEkCK9WQUqGe3kHpeNQGlquqejE8eN1MD0o)
 
-Following this article's pruning method, the less important convolutional filters of VGG16 and ResNet50 models were pruned in order to obtain smaller CNNs. 
+Following this article's pruning method, the less important convolutional filters of VGG16 and ResNet50 models were pruned in order to obtain smaller, lighter CNNs. 
 Computer vision experiments were led using VGG16 on MNIST and CIFAR10 and ResNet50 on CIFAR10 dataset. Results were compared with 2 baselines. 
 Let us note that we did not reproduce the section of the article dedicated to experiments on audio datasets.
 
