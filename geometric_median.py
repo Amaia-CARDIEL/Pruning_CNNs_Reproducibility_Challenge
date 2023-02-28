@@ -1,5 +1,5 @@
 '''
-OUR TEAM IS NOT THE AUTHOR OF THIS FILE.
+I AM NOT THE AUTHOR OF THIS FILE.
 
 This file has been downloaded from the Github link below:
 https://github.com/mrwojo/geometric_median/blob/master/geometric_median/geometric_median.py
