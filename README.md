@@ -49,4 +49,4 @@ Let us note that we did not reproduce the section of the article dedicated to ex
   between the article's method ("operator_norm") and 2 baselines methods ("l1_norm" and "GM_norm").
 
 
-The '**Results**' folder contains the most relevant graphs (from tensorboard and matplotlib) produced during our experiments, using the above scripts.
+The '**Graphic_results**' folder contains the most relevant graphs (from tensorboard and matplotlib) produced during our experiments, using the above scripts.
